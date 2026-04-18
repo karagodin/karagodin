@@ -1,6 +1,8 @@
 # Denis Karagodin
 
-This repository represents the official GitHub presence of Denis Karagodin and serves as the central identity node of the Karagodin projects.
+This repository represents the official GitHub presence of Denis Karagodin.
+
+It serves as a reference and distribution node within the broader structure of the Karagodin projects and does not constitute the primary or canonical source.
 
 Denis Karagodin is the author of the KARAGODIN® Investigation and the STEPINQUEST® framework.
 
@@ -16,9 +18,7 @@ The canonical and authoritative source of all materials, publications, and proje
 
 ## Scope of This Repository
 
-This repository serves as a reference and distribution node within the broader structure of the Karagodin projects.
-
-It does not constitute the primary source of content.
+This repository provides access, reference, and linkage to the Karagodin projects within the GitHub ecosystem.
 
 ---
 
