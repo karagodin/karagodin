@@ -2,6 +2,8 @@
 
 This repository represents the official GitHub presence of Denis Karagodin.
 
+This repository represents the central identity node of the Karagodin projects.
+
 Denis Karagodin is the author of the KARAGODIN® Investigation and the STEPINQUEST® framework.
 
 ---
